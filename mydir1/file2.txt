@@ -1,1 +1,2 @@
 file2 within directory
+blah blah
